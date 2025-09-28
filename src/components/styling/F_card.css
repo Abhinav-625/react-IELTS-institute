@@ -1,0 +1,14 @@
+.div-fc-1 {
+    transition: all 0.2s ease;
+}
+
+.div-fc-1:hover {
+    opacity: 0.8;
+    border: 3px solid #d9f9a5;
+}
+
+.div-fc-1:active {
+    transform: scale(0.97);
+    opacity: 0.6;
+    border: 4px solid #d2d68d;
+}

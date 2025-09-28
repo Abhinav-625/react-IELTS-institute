@@ -1,0 +1,22 @@
+.div-h1{
+    background-color: #f4fec1;
+}
+.div-h1 .div-h2{
+    min-height: 90vh;
+}
+.div-h1 .custom-btn-hero{
+    background-color: #d9f9a5;
+    color: #68534d;
+    border: #68534d solid 1px;
+}
+.div-h1 .custom-btn-hero:hover{
+    background-color: #d2d68d;
+    color: #68534d;
+    border: #68534d solid 1px;
+}
+.div-h1 .custom-btn-hero:active{
+    transform: scale(.97);
+    color: #68534d !important;
+    background-color: #d9f9a5 !important;
+    border: 1px solid #68534d !important;
+}

@@ -1,0 +1,14 @@
+.div-fo-1{
+    background-color: #68534d;
+    color: #f4fec1;
+}
+.div-fo-1 .custom-link-fo{
+    color: #d2d68d;
+}
+.div-fo-1 .custom-link-fo:focus,
+.div-fo-1 .custom-link-fo:active {
+    color: #f4fec1;
+}
+.div-fo-1 .custom-link-fo:hover{
+    color: #f4fec1;
+}
