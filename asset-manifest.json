@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-IELTS-institute/static/css/main.b943a703.css",
+    "main.js": "/react-IELTS-institute/static/js/main.5d5c33e7.js",
+    "static/js/453.2a5f6401.chunk.js": "/react-IELTS-institute/static/js/453.2a5f6401.chunk.js",
+    "static/media/s2.png": "/react-IELTS-institute/static/media/s2.960b2c0b901463d5e729.png",
+    "static/media/score.png": "/react-IELTS-institute/static/media/score.d4c78d5fff95cbbbdb4d.png",
+    "static/media/s1.png": "/react-IELTS-institute/static/media/s1.4ddb11d048cf9f8636c8.png",
+    "static/media/mock.png": "/react-IELTS-institute/static/media/mock.f3b2f6bf002adfa3407f.png",
+    "static/media/speaking.png": "/react-IELTS-institute/static/media/speaking.9cba80ace8ff58c30482.png",
+    "static/media/hero.png": "/react-IELTS-institute/static/media/hero.6b3819da77d76fc636d3.png",
+    "static/media/logo.png": "/react-IELTS-institute/static/media/logo.277cdf7f7eb81b4c2279.png",
+    "static/media/star.png": "/react-IELTS-institute/static/media/star.4334da59eaafb7018d87.png",
+    "index.html": "/react-IELTS-institute/index.html",
+    "main.b943a703.css.map": "/react-IELTS-institute/static/css/main.b943a703.css.map",
+    "main.5d5c33e7.js.map": "/react-IELTS-institute/static/js/main.5d5c33e7.js.map",
+    "453.2a5f6401.chunk.js.map": "/react-IELTS-institute/static/js/453.2a5f6401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b943a703.css",
+    "static/js/main.5d5c33e7.js"
+  ]
+}
