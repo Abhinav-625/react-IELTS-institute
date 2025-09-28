@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-IELTS-institute/static/css/main.b943a703.css",
-    "main.js": "/react-IELTS-institute/static/js/main.1b814e21.js",
+    "main.js": "/react-IELTS-institute/static/js/main.06a2d040.js",
     "static/js/453.2a5f6401.chunk.js": "/react-IELTS-institute/static/js/453.2a5f6401.chunk.js",
     "static/media/s2.png": "/react-IELTS-institute/static/media/s2.960b2c0b901463d5e729.png",
     "static/media/score.png": "/react-IELTS-institute/static/media/score.d4c78d5fff95cbbbdb4d.png",
@@ -13,11 +13,11 @@
     "static/media/star.png": "/react-IELTS-institute/static/media/star.4334da59eaafb7018d87.png",
     "index.html": "/react-IELTS-institute/index.html",
     "main.b943a703.css.map": "/react-IELTS-institute/static/css/main.b943a703.css.map",
-    "main.1b814e21.js.map": "/react-IELTS-institute/static/js/main.1b814e21.js.map",
+    "main.06a2d040.js.map": "/react-IELTS-institute/static/js/main.06a2d040.js.map",
     "453.2a5f6401.chunk.js.map": "/react-IELTS-institute/static/js/453.2a5f6401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b943a703.css",
-    "static/js/main.1b814e21.js"
+    "static/js/main.06a2d040.js"
   ]
 }
