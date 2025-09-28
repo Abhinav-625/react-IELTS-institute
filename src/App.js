@@ -8,10 +8,10 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-IELTS-institute">
       <Navbar />
       <Routes>
-        <Route path='/' element={<Hero />} />
+        <Route path='/' index element={<Hero />} />
         <Route path='/features' element={<Features />} />
         <Route path='/testimonials' element={<Testimonials />} />
       </Routes>

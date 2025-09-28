@@ -18,9 +18,12 @@
     color: #f4fec1;
     border-color: #d2d68d;
 }
-.navbar-custom .custom-menu-nav:focus {
+.navbar-custom .custom-menu-nav:focus{
     box-shadow: none;
 }
+ .navbar-custom .navbar-brand:focus{
+    color: #f4fec1;
+ }
 .navbar-custom .custom-menu-nav:hover{
     transform: scale(.96);
 }
