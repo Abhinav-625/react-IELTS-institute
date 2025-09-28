@@ -28,3 +28,6 @@ A modern, responsive web app built with React. It features a modular component s
 
 **I used a minimalistic design approach for elegancy.**
 **I have mainly used 4 colours [ Cream(#F4FEC1), Mindaro(#D9F9A5), Citron(#D2D68D), Wenge(#68534D) ] for designing my website and simple animated images.**
+
+## Click the link given below to access the website:
+**https://abhinav-625.github.io/react-IELTS-institute**
