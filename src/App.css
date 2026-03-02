@@ -1,0 +1,30 @@
+:root{
+    --lightest: #f4fec1;
+    --light: #d9f9a5;
+    --dark: #d2d68d;
+    --darkest: #68534d;
+}
+.link-el:hover{
+    color: var(--dark) !important;
+}
+.link-el:active{
+    color: var(--lightest);
+    transform: scale(1.05);
+    border: none;
+}
+.card:hover{
+    transform: scale(.99);
+    box-shadow: 0 0 3px var(--darkest);
+    cursor: pointer;
+    opacity: .7;
+    transition: transform 0.2s linear;
+}
+.card:active{
+    transform: scale(.9);
+    box-shadow: 0 0 3px var(--darkest);
+    transition: transform 0.5s linear;
+}
+.enrollBtn:hover{
+    background-color: var(--dark) !important;
+    transform: scale(1.05);
+}
