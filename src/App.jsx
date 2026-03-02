@@ -5,7 +5,7 @@ import Layout from './components/Layout'
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/react-IELTS-institute/">
         <Layout />
       </BrowserRouter>
     </>
